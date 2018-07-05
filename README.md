@@ -6,7 +6,7 @@ For an introduction to HTML please see [WebPlatform](http://docs.webplatform.org
 
 W3C's HTML5 specification can be found here: [http://www.w3.org/TR/html5/](http://www.w3.org/TR/html5/)
 
-Through the rest of this section you will create a basic HTML document. After finishing this section you will: 
+Through the rest of this section you will create a basic HTML document. After finishing this section you will:
 
 * be able to create HTML documents that displays text, images, tables, lists
 * understand how to structure HTML documents, and what the basic building blocks are
@@ -14,7 +14,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 
 ###Exercises
 
-1. **The Basics of HTML:** 
+1. **The Basics of HTML:**
 	1. Create a basic `.html` file with a header displaying "Hello World".
 	2. Change the `header` to "My todo list".
 	3. Add a `list` of "todo items" for your daily chores.
@@ -23,7 +23,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 		* You may find this book useful: [http://diveintohtml5.info/](http://diveintohtml5.info/)		
 	6. Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email).
 	7. Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
-2. **Doctypes & Metatags:** 
+2. **Doctypes & Metatags:**
 	1. Learn how to write valid, and semantic markup:
 		* [HTML Validation](https://docs.webplatform.org/wiki/guides/html_validation)
 		* [WHAT DOES IT ALL MEAN?](http://diveintohtml5.info/semantics.html)
@@ -32,7 +32,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 	4. Add the [meta viewport tag](http://www.quirksmode.org/mobile/metaviewport/). Check what happens in a mobile browser with or without it.
 	4. Validate your markup: [W3C Validator](http://validator.w3.org/)
 	5. Finally, check out [The HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate), to see a best-practice HTML document.
-3. **Accessibility** 
+3. **Accessibility**
 	* Understand **why** accessibility is important:
 		* [W3C Accessibility](http://www.w3.org/standards/webdesign/accessibility)
 	* Understand **how** to make web document accessible:
@@ -73,7 +73,7 @@ Learn how to create CSS rules.
 * Play a little [game](http://flukeout.github.io/) to consolidate your knowledge
 * Bookmark the following list of properties for future reference [http://ref.openweb.io/CSS/](http://ref.openweb.io/CSS/)
 * Bookmark a reference of CSS Vocabulary [http://pumpula.net/p/apps/css-vocabulary/](http://pumpula.net/p/apps/css-vocabulary/)
-* 
+*
 Exercises:
     1. Add background to the header, footer, aside and nav.
     2. Add a global font definition (at html element) with a value of 14px, using a font-family you like.
