@@ -20,7 +20,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 	3. Add a `list` of "todo items" for your daily chores.
 	4. Create another `.html` file. Create a table for your expenses.
 	5. Create another `.html` file. Add an image, a video, and a sound.
-		* You may find this book useful: [http://diveintohtml5.info/](http://diveintohtml5.info/)		
+		* You may find this book useful: [http://www.diveintohtml5.net/](http://www.diveintohtml5.net/)		
 	6. Create a "sign up" form with fields for: first name, last name, email, birthday, a dropdown to choose your favourite sport, and a text-area to include a small bio for the user. Add a button at the end to submit the form, and another one to clear the form. Add relevant validation rules for all fields (like required fields, valid email).
 	7. Test your HTML files in at least Firefox, Chrome, IE, and Chrome for Android or iOS Safari.
 2. **Doctypes & Metatags:**
