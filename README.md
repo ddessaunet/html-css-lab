@@ -1,6 +1,6 @@
 # Basics of HTML and CSS
 
-##1. HTML
+## 1. HTML
 
 For an introduction to HTML please see [WebPlatform](http://docs.webplatform.org/wiki/html/tutorials).
 
@@ -12,7 +12,7 @@ Through the rest of this section you will create a basic HTML document. After fi
 * understand how to structure HTML documents, and what the basic building blocks are
 * understand best practices to write valid, accessible, and semantic HTML markup.
 
-###Exercises
+### Exercises
 
 1. **The Basics of HTML:**
 	1. Create a basic `.html` file with a header displaying "Hello World".
