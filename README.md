@@ -131,3 +131,7 @@ Exercises
 
 ### 2.6 Media queries
 * [Learn Media Queries](http://css-tricks.com/css-media-queries/) and adapt your previous exercises to work on mobile screens. Use the following design as guide [example](http://mediaqueri.es/ity/).
+
+### 2.7 CSS Style guides
+* [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide)
+* [Airbnb CSS / Sass Styleguide](https://github.com/airbnb/css#airbnb-css--sass-styleguide)
